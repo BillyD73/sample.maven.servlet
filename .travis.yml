@@ -4,6 +4,6 @@ deploy:
   provider: releases
   api_key:
     secure: ZNIEZ3AR6yIZZbj3L85qG/b05aU0DBUgTRHzK1G3bbhRSfXfjQtA0EQya7RxwDGBzJACxp2PzIjDh3zM/QhOxRe3++mjMeCNcSjeMMsELWL5D/Sg/m/36W80GVM1g0du+QBZtRFKVnqCKcCluzEymeBuISicrzXamEZYXKJL2hpj6K7J93KBjb+tmVvvP4FH+XDU55sIMqu0SaI13RXTXTY+T4t21OPtp+Rfwo9lUe0knu/+zG3ksvRKgEcU6fDAL87AIP8GkYgMaInacvHzxkVSspbhRPNlCQjs85WCxlAVlNtAPAgYk0HIjgKaw9FBBcfFnUJjnmzag+7XGKTkQMjo2sRg9/m0IyMhTyFwXsDB0HoaezsfLSmo3bnOCV1sVbd8ZY6kDKu+RFRrIn4YXtSxDiSl8AkVYRBvsiwCrZWFkm4g9J2c9JHZAoIDNP31BkWnUme1GyCQQG8f/VUOI/zeQ3bRMCDBt9blIunVmgslPsQUJMEMmem/eohGPCOf20XszPSZesdUCdfPcxR8erUPPPn7UhGJclgRwK3VGl2zeMzRcI0YdHBeVRyFaSOFnM4Dj456eL6BXYT/rejSkc0VNV1MJx1R3AVTYXf9SiJBv+v715JWiAgMgl94agT7Ku3S+SMU2t8o+tFdvX+Fn3Dq/jmu/SSgYHvXGXd49S4=
-  file: ''
+  file: 'target/sample.servlet.war'
   on:
     repo: BillyD73/sample.maven.servlet

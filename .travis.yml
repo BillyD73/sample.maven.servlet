@@ -7,3 +7,4 @@ deploy:
   file: 'target/sample.servlet.war'
   on:
     repo: BillyD73/sample.maven.servlet
+    tags: true

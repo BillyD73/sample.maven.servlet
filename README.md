@@ -1,4 +1,4 @@
-Servlet Sample
+﻿Servlet Sample [![Build Status](https://travis-ci.org/BillyD73/sample.maven.servlet)](https://travis-ci.org/BillyD73/sample.maven.servlet)
 ==============
 
 This project contains a simple Servlet application.

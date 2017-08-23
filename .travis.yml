@@ -10,3 +10,10 @@ deploy:
   on:
     repo: BillyD73/sample.maven.servlet
     tags: true
+notifications:
+  email:
+    recipients:
+      - Billy.Dawson3@uk.ibm.com
+      - other@example.com
+    on_success: never # default: change
+    on_failure: always # default: always
